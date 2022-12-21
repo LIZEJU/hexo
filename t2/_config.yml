@@ -19,12 +19,6 @@ permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
-# hexo-absolute
-absolute:
-  tagName: ['a', 'link', 'img', 'script']
-  attribute: ['href', 'src']
-  priority: 20
-  disable: 0
 
 # Directory
 source_dir: source
