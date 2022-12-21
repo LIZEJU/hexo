@@ -21,8 +21,8 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 # hexo-absolute
 absolute:
-  tagName: ['a', 'link', 'img', 'script']
-  attribute: ['href', 'src']
+  tagName: [a,'img']
+  attribute: ['href','src']
   priority: 20
   disable: 0
 
